@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning web development & web technologies 
 - 💞️ 
 - 📫 How to reach me ...
-www.facebook.com/kyaching
+Facebook: www.facebook.com/kyaching
+LinkedIn: https://www.linkedin.com/in/kyaching-marma/
 
 <!---
 Kyaching/Kyaching is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
