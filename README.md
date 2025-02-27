@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Kyachinghla Marma
-- 👀 I’m interested in web development and android development 
-- 🌱 I’m currently learning web development & web technologies 
-- 💞️ 
+-🌱 Currently improving my skills in React Native & TypeScript.
+- 🚀 Exploring best practices in performance optimization & state management.
 - 📫 How to reach me ...
 - Facebook: www.facebook.com/kyaching
 - LinkedIn: https://www.linkedin.com/in/kyaching-marma/
