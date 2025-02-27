@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kyachinghla Marma
--🌱 Currently improving my skills in React Native & TypeScript.
+- 🌱Currently improving my skills in React Native & TypeScript.
 - 🚀 Exploring best practices in performance optimization & state management.
 - 📫 How to reach me ...
 - Facebook: www.facebook.com/kyaching
